@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Navbar from "./components/navbar/Navbar";
+import Navbar from "./components/navbar/navbar";
 import Sidebar from "./components/sidebar/Sidebar";
 import DashboardHero from "./dashbord/index";
 import ProductFilters from "./dashbord/products/ProductFilters";
