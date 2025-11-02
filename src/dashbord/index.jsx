@@ -23,7 +23,7 @@ export default function DashboardHero() {
         {/* Right Illustration */}
         <div className="flex-1 flex justify-center md:justify-end">
           <img
-            src="/mobile-phone-shopping-bags-ecommerce-illustration.jpg"
+            src="/shop-illustration.webp"
             alt="E-commerce illustration"
             className="w-full max-w-sm md:max-w-md"
           />
